@@ -1,0 +1,5 @@
+BDM = "countries/The Burning Legion - Dun Modr Region.txt"
+BHF = "countries/The Burning Legion - Hammerfall Region.txt"
+BHL = "countries/The Burning Legion - Hinterlands Region.txt"
+BRR = "countries/The Burning Legion - Redridge Region.txt"
+BSW = "countries/The Burning Legion - Stormwind Region.txt"

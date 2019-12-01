@@ -1,0 +1,44 @@
+#########################
+### Stormwind Other Vassals ###
+#########################
+
+# BDM - The Burning Legion - Dun Modr Region
+dependency = {
+	subject_type = "burning_legion_swarm"
+	first = B92
+	second = BDM
+	start_date = 546.1.1
+	end_date = 640.1.1
+}
+# BHF - The Burning Legion - Hammerfall Region
+dependency = {
+	subject_type = "burning_legion_swarm"
+	first = B92
+	second = BHF
+	start_date = 546.1.1
+	end_date = 640.1.1
+}
+# BHL - The Burning Legion - Hinterlands Region
+dependency = {
+	subject_type = "burning_legion_swarm"
+	first = B92
+	second = BHL
+	start_date = 546.1.1
+	end_date = 640.1.1
+}
+# BRR - The Burning Legion - Redridge Region
+dependency = {
+	subject_type = "burning_legion_swarm"
+	first = B92
+	second = BRR
+	start_date = 546.1.1
+	end_date = 640.1.1
+}
+# BSW - The Burning Legion - Stormwind Region
+dependency = {
+	subject_type = "burning_legion_swarm"
+	first = B92
+	second = BSW
+	start_date = 546.1.1
+	end_date = 640.1.1
+}
